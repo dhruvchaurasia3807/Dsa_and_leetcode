@@ -1,0 +1,14 @@
+public class countEvenNo {
+    public static void main(String[] args) {
+        int[] arr = { 1, 2, 3, 4, 5 };
+        int even = 0;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] % 2 == 0) {
+                even++;
+
+            }
+        }
+        System.out.println("total no of even no is " + even);
+
+    }
+}
