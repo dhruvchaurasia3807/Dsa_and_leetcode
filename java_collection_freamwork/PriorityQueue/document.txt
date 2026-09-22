@@ -1,0 +1,6 @@
+Method	    Meaning
+offer()	    element add
+poll()   	highest priority element remove
+peek()	    highest priority element dekho
+size()	    elements ki count
+isEmpty()	empty check
